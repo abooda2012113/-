@@ -1,0 +1,14 @@
+
+{
+  "name": "Financial Tracker",
+  "short_name": "FinTrack",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "إدارة المقبوضات والمدفوعات",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
